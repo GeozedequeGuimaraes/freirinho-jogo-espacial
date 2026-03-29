@@ -11,30 +11,19 @@
 
 ---
 
-## Sobre o Projeto
-
-**Freirinho** é um jogo 2D educativo com tema espacial desenvolvido em Python com Pygame. O jogador controla uma nave e explora um universo aberto coletando planetas com letras para formar palavras — na ordem correta! Desvie de asteroides, evite letras erradas e complete os 5 níveis.
-
-Projeto desenvolvido para a disciplina de **Introdução à Programação — CIn-UFPE** (Recife, PE, Brasil).
-
----
-
 ## Demo
 
 <div align="center">
   <img src="screenshots/demo.gif" alt="Demo" width="600">
 </div>
 
-## Screenshots
+---
 
-### Gameplay
-![Gameplay](screenshots/03-gameplay.png)
+## Sobre o Projeto
 
-### Tela de Vitoria
-![Vitoria](screenshots/01-vitoria.png)
+**Freirinho** é um jogo 2D educativo com tema espacial desenvolvido em Python com Pygame. O jogador controla uma nave e explora um universo aberto coletando planetas com letras para formar palavras — na ordem correta! Desvie de asteroides, evite letras erradas e complete os 5 níveis.
 
-### Tela de Derrota
-![Derrota](screenshots/02-derrota.png)
+Projeto desenvolvido para a disciplina de **Introdução à Programação — CIn-UFPE** (Recife, PE, Brasil).
 
 ---
 
@@ -96,6 +85,19 @@ python main.py
 ## Contexto
 
 Projeto desenvolvido para a disciplina de **Introdução à Programação — CIn-UFPE** (Recife, PE, Brasil).
+
+---
+
+## Screenshots
+
+### Gameplay
+![Gameplay](screenshots/03-gameplay.png)
+
+### Tela de Vitoria
+![Vitoria](screenshots/01-vitoria.png)
+
+### Tela de Derrota
+![Derrota](screenshots/02-derrota.png)
 
 ---
 
