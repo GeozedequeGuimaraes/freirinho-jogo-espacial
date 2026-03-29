@@ -23,7 +23,7 @@ Projeto desenvolvido para a disciplina de **Introdução à Programação — CI
 
 <div align="center">
   <img src="screenshots/demo.gif" alt="Demo" width="600">
-</div>div>
+</div>
 
 ## Screenshots
 
@@ -41,64 +41,64 @@ Projeto desenvolvido para a disciplina de **Introdução à Programação — CI
 ## Funcionalidades
 
 - **Mundo aberto** — mapa 3x maior que a tela com camera que segue a nave
-- - **5 niveis** com palavras diferentes: MARTE, TEMA, ARTE, TREM, META
-  - - **Coleta em ordem obrigatoria** — precisa pegar as letras na sequencia correta da palavra
-    - - **Seta indicadora** no HUD mostra qual e a proxima letra
-      - - **Letra fora de ordem** — perde vida mas reaparece em outro lugar do mapa
-        - - **Mini-mapa** — mostra posicao da nave, planetas corretos (verde) e errados (vermelho)
-          - - **Dificuldade progressiva** — mais obstaculos a cada nivel
-            - - **Sistema de vidas** com power-up de vida extra
-              - - Animacoes de explosao coloridas ao coletar planetas
-                - - Placar de letras coletadas exibido na tela
-                 
-                  - ---
+- **5 niveis** com palavras diferentes: MARTE, TEMA, ARTE, TREM, META
+- **Coleta em ordem obrigatoria** — precisa pegar as letras na sequencia correta da palavra
+- **Seta indicadora** no HUD mostra qual e a proxima letra
+- **Letra fora de ordem** — perde vida mas reaparece em outro lugar do mapa
+- **Mini-mapa** — mostra posicao da nave, planetas corretos (verde) e errados (vermelho)
+- **Dificuldade progressiva** — mais obstaculos a cada nivel
+- **Sistema de vidas** com power-up de vida extra
+- Animacoes de explosao coloridas ao coletar planetas
+- Placar de letras coletadas exibido na tela
 
-                  ## Tecnologias
+---
 
-                  - **Python** — linguagem principal do desenvolvimento
-                  - - **Pygame** — engine para renderizacao, sprites, colisoes e animacoes
-                   
-                    - ---
+## Tecnologias
 
-                    ## Como Executar
+- **Python** — linguagem principal do desenvolvimento
+- **Pygame** — engine para renderizacao, sprites, colisoes e animacoes
 
-                    1. Instale as dependências:
-                    2.    ```bash
-                             pip install pygame
-                             ```
-                          2. Clone este repositório:
-                          3.    ```bash
-                                   git clone https://github.com/GeozedequeGuimaraes/freirinho-jogo-espacial.git
-                                   ```
-                                3. Acesse a pasta do projeto:
-                                4.    ```bash
-                                         cd freirinho-jogo-espacial
-                                         ```
-                                      4. Execute o jogo:
-                                      5.    ```bash
-                                               python main.py
-                                               ```
+---
 
-                                            ---
+## Como Executar
 
-                                        ## Controles
+1. Instale as dependências:
+```bash
+pip install pygame
+```
+2. Clone este repositório:
+```bash
+git clone https://github.com/GeozedequeGuimaraes/freirinho-jogo-espacial.git
+```
+3. Acesse a pasta do projeto:
+```bash
+cd freirinho-jogo-espacial
+```
+4. Execute o jogo:
+```bash
+python main.py
+```
 
-                                  | Tecla | Ação |
-                            |-------|------|
-                            | ← ↑ → ↓ / WASD | Move a nave |
-                            | Colidir com letra correta | Coleta a letra e avança na palavra |
-                            | Colidir com letra errada | Perde uma vida |
-                            | ENTER | Reinicia / próximo nível |
-                            | ESC | Sair |
+---
 
-                            ---
+## Controles
 
-                      ## Contexto
+| Tecla | Ação |
+|-------|------|
+| ← ↑ → ↓ / WASD | Move a nave |
+| Colidir com letra correta | Coleta a letra e avança na palavra |
+| Colidir com letra errada | Perde uma vida |
+| ENTER | Reinicia / próximo nível |
+| ESC | Sair |
 
-                    Projeto desenvolvido para a disciplina de **Introdução à Programação — CIn-UFPE** (Recife, PE, Brasil).
+---
 
-                    ---
+## Contexto
 
-                    ## Autor
+Projeto desenvolvido para a disciplina de **Introdução à Programação — CIn-UFPE** (Recife, PE, Brasil).
 
-                    **Geozedeque Guimarães** — Estudante de Ciência da Computação — CIn-UFPE
+---
+
+## Autor
+
+**Geozedeque Guimarães** — Estudante de Ciência da Computação — CIn-UFPE
