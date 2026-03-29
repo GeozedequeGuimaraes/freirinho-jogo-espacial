@@ -17,7 +17,11 @@
 
 ---
 
-## Preview
+## Demo
+
+![Demo](screenshots/demo.gif)
+
+## Screenshots
 
 ### Gameplay
 ![Gameplay](screenshots/03-gameplay.png)
